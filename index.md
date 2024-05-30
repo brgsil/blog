@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Just keep trying stuff!
 ---
+
+I'm Bruno Silva, a Phd student at Unciamp.
 
