@@ -1,5 +1,6 @@
 ---
-title: Just keep trying stuff!
+title: BRGSIL
+layout: default
 ---
 
 I'm Bruno Silva, a Phd student at Unciamp.
