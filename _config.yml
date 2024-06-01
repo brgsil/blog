@@ -1,3 +1,17 @@
 remote_theme: ankitsultana/researcher@gem
-title: BRGSIL Journal
+title: BRGSIL
+url: "https://brgsil.com"
+baseurl: "/researcher"
 author: Bruno Silva
+
+footer: yes
+footer_url: "https://github.com/brgsil"
+footer_text: "Page design by Ankit Sultana"
+
+nav:
+ - name: "About"
+   link: "/researcher/"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
